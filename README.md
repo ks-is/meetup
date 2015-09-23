@@ -1,5 +1,14 @@
 # KS.IS Meetup
 
+## Quy trình tổ chức Meetup
+
+[đang cập nhật]
+
+## Phân loại bài nói
+
+- Hiện tại mỗi bài nói nên có độ dài **khoảng 15'** (không tính thời gian hỏi đáp)
+- Mỗi buổi Meetup hiện tại cần **3-5 bài nói**
+
 ## Cách thức đăng ký các bài nói
 
 Nếu bạn muốn làm một bài presentation thì tạo một Issue trên Repository này với tựa đề
