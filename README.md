@@ -9,10 +9,11 @@
 - Hiện tại mỗi bài nói nên có độ dài **khoảng 15'** (không tính thời gian hỏi đáp)
 - Mỗi buổi Meetup hiện tại cần **3-5 bài nói**
 
+[**Danh sách các bài nói**](https://github.com/ks-is/meetup/issues)
+
 ## Cách thức đăng ký các bài nói
 
-Nếu bạn muốn làm một bài presentation thì tạo một Issue trên Repository này với tựa đề
-như sau:
+Nếu bạn muốn làm một bài presentation thì tạo một [Issue](https://github.com/ks-is/meetup/issues/new) trên Repository này với tựa đề như sau:
 
 ```
 Meetup #<number> - Tên bạn - Tên bài nói
