@@ -8,8 +8,7 @@
 
 - Hiện tại mỗi bài nói nên có độ dài **khoảng 15'** (không tính thời gian hỏi đáp)
 - Mỗi buổi Meetup hiện tại cần **3-5 bài nói**
-
-[**Danh sách các bài nói**](https://github.com/ks-is/meetup/issues)
+- [**Danh sách các bài nói**](https://github.com/ks-is/meetup/issues)
 
 ## Cách thức đăng ký các bài nói
 
