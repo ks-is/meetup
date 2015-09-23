@@ -33,4 +33,5 @@ Meetup #1 - Toan (@toan-ksis) - Chào mừng mọi người
 Chào mừng mọi người đến với một nền tảng hoạt động nhóm mới! Mạnh mẽ hơn, chuyên nghiệp hơn :smile:
 ```
 
-Quản trị repo sẽ tag ticket với từ khoá 'Accepted' nếu bài nói đc chấp nhận và từ khoá 'Better luck next time' nếu không đc chấp nhận.
+
+Quản trị repo sẽ tag ticket với từ khoá 'Accepted' nếu bài nói được chấp nhận và từ khoá 'Better luck next time' nếu không được chấp nhận.
