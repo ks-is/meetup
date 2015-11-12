@@ -8,7 +8,7 @@
 
 ## Quy trình tổ chức Meetup
 
-[đang cập nhật d]
+[đang cập nhật]
 
 ## Phân loại bài nói
 
