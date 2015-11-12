@@ -3,7 +3,6 @@
 [![docs](https://raw.githubusercontent.com/ks-is/docs/master/icon/docs.png)](https://github.com/ks-is/docs)
 [![chat](https://raw.githubusercontent.com/ks-is/docs/master/icon/chat.png)](https://ksis.slack.com/messages/chat)
 [![fb](https://raw.githubusercontent.com/ks-is/docs/master/icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
-[![forum](https://raw.githubusercontent.com/ks-is/docs/master/icon/forum.png)](https://github.com/ks-is/forum/issues)
 [![meetup](https://raw.githubusercontent.com/ks-is/docs/master/icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
 ## Quy trình tổ chức Meetup
