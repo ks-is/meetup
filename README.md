@@ -11,7 +11,7 @@
 
 ## Phân loại bài nói
 
-- Hiện tại mỗi bài nói nên có độ dài **khoảng 15'** (không tính thời gian hỏi đáp)
+- Hiện tại mỗi bài nói nên có độ dài **khoảng 15-20'** (không tính thời gian hỏi đáp)
 - Sau khi speaker trình bày xong quan điểm của mình, sẽ dành thời gian cho hỏi đáp (tối đa 10' / bài nói)
 - Mỗi buổi Meetup hiện tại cần **3-5 bài nói**
 - [**Danh sách các bài nói**](https://github.com/ks-is/meetup/issues)
