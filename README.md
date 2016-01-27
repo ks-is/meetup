@@ -7,7 +7,7 @@
 
 ## Quy trình tổ chức Meetup
 
-[đang cập nhật]
+- [Click để xem](https://github.com/ks-is/docs/blob/master/hoat_dong_nhom.md#meet-up)
 
 ## Phân loại bài nói
 
