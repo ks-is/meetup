@@ -1,7 +1,7 @@
 # KS.IS Meetup
 
 [![docs](https://raw.githubusercontent.com/ks-is/docs/master/icon/docs.png)](https://github.com/ks-is/docs)
-[![chat](https://raw.githubusercontent.com/ks-is/docs/master/icon/chat.png)](https://ksis.slack.com/messages/chat)
+[![chat](https://raw.githubusercontent.com/ks-is/docs/master/icon/chat.png)](https://gitter.im/ksis-group/chat)
 [![fb](https://raw.githubusercontent.com/ks-is/docs/master/icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
 [![meetup](https://raw.githubusercontent.com/ks-is/docs/master/icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
