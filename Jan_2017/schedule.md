@@ -20,8 +20,6 @@
 | 10h50-11h10 | Demo Crypto: caesar, vigenere             |    [Haniz](https://github.com/CloudStrifeHan)   |
 | 11h10-11h30 | Dự phòng                                  |            |
 
-<br>
-
 ---
 
 Happy hacking :clap: 
