@@ -16,7 +16,7 @@
 | 09h30-09h45 | Demo Exploit IP Camera                    |   [Trái Ổi](https://github.com/TraiOi)  |
 | 09h45-10h00 | Giải lao                                  |            |
 | 10h00-10h20 | Đi thực tập Web Pentest có gì vui ?       |    [Kvin](https://github.com/Kevin-KSIS)    |
-| 10h20-10h50 | Giới thiệu về CTF                         | [v3rm0uth95](https://github.com/v3rm0uth95) |
+| 10h20-10h50 | Giới thiệu về CTF                         | [MrVermouth](https://github.com/MrVermouth) |
 | 10h50-11h10 | Demo Crypto: caesar, vigenere             |    [Haniz](https://github.com/CloudStrifeHan)   |
 | 11h10-11h30 | Dự phòng                                  |            |
 
