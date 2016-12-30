@@ -4,7 +4,7 @@
 >
 > Địa điểm: P.403 - Học viện Kỹ thuật Mật mã (Phía Nam).
 > 
-> Tổ chức bởi KS.IS-Group.
+> Tổ chức bởi [KS.IS-Group](https://github.com/ks-is/docs/blob/master/thong_tin_nhom.md).
 
 ### Chương trình
 
