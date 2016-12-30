@@ -2,7 +2,7 @@
 
 > Thời gian: 08h30-11h30, 14/01/2017.
 >
-> Địa điểm: P.403 - Học viện Kỹ thuật Mật mã (Phía Nam)
+> Địa điểm: P.403 - Học viện Kỹ thuật Mật mã (Phía Nam).
 > 
 > Tổ chức bởi KS.IS-Group.
 
