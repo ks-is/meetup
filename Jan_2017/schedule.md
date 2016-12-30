@@ -1,6 +1,6 @@
 ## Meetup #4 (2017)
 
-> Thời gian: 08h30-11h30, 14/01/2017.
+> Thời gian: 08h30-11h30, 07/01/2017.
 >
 > Địa điểm: P.403 - Học viện Kỹ thuật Mật mã (Phía Nam).
 > 
@@ -19,8 +19,6 @@
 | 10h20-10h50 | Giới thiệu về CTF                         | [v3rm0uth95](https://github.com/v3rm0uth95) |
 | 10h50-11h10 | Demo Crypto: caesar, vigenere             |    [Haniz](https://github.com/CloudStrifeHan)   |
 | 11h10-11h30 | Dự phòng                                  |            |
-
----
 
 Happy hacking :clap: 
 
