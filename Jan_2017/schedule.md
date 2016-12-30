@@ -1,4 +1,4 @@
-### Meetup #4 (2017)
+## Meetup #4 (2017)
 
 > Thời gian: 08h30-11h30, 14/01/2017.
 >
@@ -6,7 +6,7 @@
 > 
 > Tổ chức bởi KS.IS-Group.
 
-#### Chương trình
+### Chương trình
 
 |     Thời gian   | Activities                                |  Speakers  |
 |:-----------:|-------------------------------------------|:----------:|
@@ -20,6 +20,5 @@
 | 10h50-11h10 | Demo Crypto: caesar, vigenere             |    [Haniz](https://github.com/CloudStrifeHan)   |
 | 11h10-11h30 | Dự phòng                                  |            |
 
----
 
-Happy hacking :+1:
+Happy hacking :clap: 
