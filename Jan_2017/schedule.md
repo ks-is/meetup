@@ -8,7 +8,7 @@
 
 ### Chương trình
 
-|     Thời gian   | Activities                                |  Speakers  |
+|     Thời gian   | Hoạt động                           |  Speakers  |
 |:-----------:|-------------------------------------------|:----------:|
 | 08h30-08h35 | Ổn định chỗ ngồi                          |            |
 | 08h35-08h40 | Giới thiệu buổi meetup |            |
